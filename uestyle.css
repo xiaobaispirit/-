@@ -1,0 +1,21 @@
+    .keywords{padding: 15px 40px;}
+    .word{margin-left: 15px;line-height: 35px;}
+    .outputbtn{margin-left: 20px;vertical-align: baseline;}
+    .news{ margin-bottom: 0}
+    .news:hover{box-shadow: 0 4px 10px #A9A9A9; border-top:3px solid #91b8df}
+    .news small{margin-left: 10px;}
+    .news p{  height: 36px;
+    /* word-wrap: initial; */
+    /* word-spacing: inherit; */
+    text-overflow: ellipsis;
+    /* word-break: break-word; */
+    overflow: hidden;}
+    .news .box-tools{top:10px;}
+    .news h3>input{margin-right: 5px;}
+    .keywords-category b{font-size: 14px;}
+    .keywords span{font-size: 12px;margin-left: 5px;margin-right: 3px;}
+    .content-header{min-height: 35px;}
+    /*7月7日*/
+    .news>div.box-body{padding-top: 0}
+    .news-group{max-height: 500px;overflow: scroll;}
+    
